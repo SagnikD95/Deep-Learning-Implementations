@@ -1,0 +1,2 @@
+# MachineLearningAlgortihms
+This is just nan implementation of Machine learning algorithms for newbies to get started with. I will be implementing most of the common algorithms using scikit and other packages. Hope someone finds it useful! Please get in touch with me at sxd170023@utdallas.edu/dakshitsagnik@gmail.com for more information, also you can check out sagnikdakshit.com to know more about me.
