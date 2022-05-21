@@ -4,5 +4,7 @@
 
 2. MNIST_GenerativeAdversarialNetwork: This is a basic GAN implementation for generating MNIST digits. 
 
+3. Crack Detection: This is a deep learning implementation of detection of crack in images. This finds application in industrial manufacturing lines for defect identification to reduce resources.
+
 
 Please get in touch with me at sdakshit@utdallas.edu/dakshitsagnik@gmail.com for more information, also you can check out sagnikdakshit.com to know more about me.
