@@ -6,5 +6,6 @@
 
 3. Crack Detection: This is a deep learning implementation of detection of crack in images. This finds application in industrial manufacturing lines for defect identification to reduce resources.
 
+4. EMNIST Federated Learning: This is a replication of the Tensorflow's implementation of Federated Learning on MNIST dataset for understanding the basic concepts of Federated Learning.
 
 Please get in touch with me at sdakshit@utdallas.edu/dakshitsagnik@gmail.com for more information, also you can check out sagnikdakshit.com to know more about me.
